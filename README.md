@@ -71,7 +71,7 @@ const rayan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,python,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,tailwind,bootstrap,python,git,github,npm,vite,postman,vscode,figma,vercel,netlify,bash,docker&perline=10" />
 
 </div>
 
